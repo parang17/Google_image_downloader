@@ -1,5 +1,5 @@
 # Google image downloader
-Python-based Google image downloader for scollering images. The images are collected by user defined words. Here is 'Elephant' example.
+Python-based Google image downloader for a image crawler. The images are collected by user defined words. Here is 'Elephant' example.
 
 ![Screenshot](https://github.com/parang17/Google_image_downloader/blob/master/img/google_image.png)
 
